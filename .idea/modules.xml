@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Temp_Face.iml" filepath="$PROJECT_DIR$/Temp_Face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidWear-TempFace.iml" filepath="$PROJECT_DIR$/AndroidWear-TempFace.iml" />
     </modules>
   </component>
 </project>
